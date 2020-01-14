@@ -2,4 +2,4 @@ function nomeDeVolta() {
     console.log ('nomeDeVolta')
 }
 mostrarNome ()
-console.log ('0 andróide paranóide')
+console.log ('O andróide paranóide')
