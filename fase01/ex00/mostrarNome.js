@@ -1,5 +1,4 @@
-function nomeDeVolta() {
-    console.log ('nomeDeVolta')
+function mostrarNome () {
+    console.log ('Marvin')
 }
-mostrarNome ()
-console.log ('O andróide paranóide')
+
