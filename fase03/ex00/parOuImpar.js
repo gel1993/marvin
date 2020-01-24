@@ -1,8 +1,8 @@
 function parOuImpar(num){
     if(num%2 === 0)
     {
-        console.log('Par');
+        return('Par');
     }else{
-       console.log ('Impar');
+       return ('Impar');
     }
 }
